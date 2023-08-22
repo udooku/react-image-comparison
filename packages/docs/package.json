@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@udooku/eslint-config": "*",
-    "@udooku/react": "*",
+    "@udooku/utils": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
