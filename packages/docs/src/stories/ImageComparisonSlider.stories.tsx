@@ -1,6 +1,6 @@
 import React from 'react'
 import type { StoryObj, Meta } from '@storybook/react'
-import { ImageSlider, ImageSliderProps } from '@udooku/react'
+import { ImageSlider, ImageSliderProps } from '@udooku/utils'
 
 export default {
   title: 'Image Comparison Slider',
